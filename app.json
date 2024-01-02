@@ -29,19 +29,19 @@
 
     "env": {
 
-        "BOT_TOKEN": {
+        "BOT_TOKEN": {6614216476:AAFDybAx7C27HAjo2AVPWiwxwwM_i2RMzvk
 
             "description": "Your Bot token from @Botfather"
 
         },
 
-        "API_ID": {
+        "API_ID": {27039595
 
             "description": "Your API_ID from https://my.telegram.org/apps"
 
         },
 
-        "API_HASH": {
+        "API_HASH": {aabe9b61bbdb73ea4b35fc4faa880621
 
             "description": "Your API_HASH from https://my.telegram.org/apps"
 
